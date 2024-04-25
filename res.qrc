@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>resourse/apple1.png</file>
+        <file>resourse/apple2.png</file>
+        <file>resourse/bullet.png</file>
+        <file>resourse/bullet2.png</file>
+        <file>resourse/bullet3.png</file>
+        <file>resourse/dinosa3.png</file>
+        <file>resourse/dinosaur1.png</file>
+        <file>resourse/dinosaur2.png</file>
+        <file>resourse/enemy1.png</file>
+        <file>resourse/gameover.png</file>
+        <file>resourse/MAP1.png</file>
+        <file>resourse/MAP2.png</file>
+        <file>resourse/MAP3.png</file>
+        <file>resourse/weaver.wav</file>
+    </qresource>
+</RCC>
